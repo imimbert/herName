@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+} 
+
+body{
+  background-color: black;
+}
+
+.title{
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30;
+  padding: 5%;
+  padding-bottom: 0%;
+}
+
+.introduction{
+  color: white;
+  font-weight: bold;
+  padding:1%;
+  padding-left: 5%;
+  padding-top: -2.5%;
+}
+
+.content{
+  color: white;
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-right:5%;
+  font-family: 'Courier New', Courier, monospace;
+}
